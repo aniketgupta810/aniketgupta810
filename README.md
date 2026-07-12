@@ -18,10 +18,10 @@ DevOps Engineer | AWS Cloud | Docker | Kubernetes | Terraform | Jenkins | .NET
 ## 🚀 About Me
 
 - 💼 DevOps Engineer with **3 years of experience at Capgemini**
-- ☁️ Working on **Azure Cloud, CI/CD, Infrastructure Automation and Containerization**
-- 🌱 Currently learning **Azure DevOps, AKS, Helm, GitHub Actions, and advanced Kubernetes**
+- ☁️ Working on **AWS Cloud, CI/CD, Infrastructure Automation and Containerization**
+- 🌱 Currently learning **Advanced Kubernetes**
 - 🐳 Passionate about **Cloud, DevOps, Automation, and Infrastructure as Code**
-- 💬 Ask me about **Azure, Docker, Kubernetes, Terraform, Jenkins, Linux, Bash, Git and .NET**
+- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Bash, Git**
 - 📫 Reach me at **aniketgupta810280@gmail.com**
 
 ---
