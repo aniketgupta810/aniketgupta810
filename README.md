@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">
-DevOps Engineer | Azure Cloud | Docker | Kubernetes | Terraform | Jenkins | .NET
+DevOps Engineer | AWS Cloud | Docker | Kubernetes | Terraform | Jenkins | .NET
 </h3>
 
 <img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
